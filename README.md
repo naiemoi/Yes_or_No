@@ -1,2 +1,2 @@
-# Yes_or_No
+# yes_or_no
 codforces solution
